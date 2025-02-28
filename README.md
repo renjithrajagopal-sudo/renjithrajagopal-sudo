@@ -8,6 +8,6 @@
 
 🔧 An Open Source Software enthusiast
 
-🌱 I’m currently learning Modular Mojo for Edge AI/ML application towards Automotive
+🌱 I’m currently learning Embedded runtime ML platforms & Optimization techniques 
 
 📫 How to reach me - https://www.linkedin.com/in/renjith-rajagopal/
